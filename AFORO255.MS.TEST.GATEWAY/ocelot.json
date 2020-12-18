@@ -1,0 +1,67 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/security-service/api/Security",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10999
+        }
+      ],
+      "UpstreamPathTemplate": "/token",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/invoice-service/api/Invoice",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10999
+        }
+      ],
+      "UpstreamPathTemplate": "/invoice",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "PERRO-GUARDIAN",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/pay-service/api/Pay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10999
+        }
+      ],
+      "UpstreamPathTemplate": "/pay",
+      "UpstreamHttpMethod": [ "Post" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "PERRO-GUARDIAN",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/transaction-service/api/Transaction",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10999
+        }
+      ],
+      "UpstreamPathTemplate": "/transaction",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "PERRO-GUARDIAN",
+        "AllowedScopes": []
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:6000"
+  }
+}

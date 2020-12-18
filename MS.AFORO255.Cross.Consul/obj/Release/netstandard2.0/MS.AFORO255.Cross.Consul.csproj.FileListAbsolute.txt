@@ -1,0 +1,9 @@
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.deps.json
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\bin\Release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.csprojAssemblyReference.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfoInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.AssemblyInfo.cs
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.csproj.CoreCompileInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Consul\obj\Release\netstandard2.0\MS.AFORO255.Cross.Consul.pdb

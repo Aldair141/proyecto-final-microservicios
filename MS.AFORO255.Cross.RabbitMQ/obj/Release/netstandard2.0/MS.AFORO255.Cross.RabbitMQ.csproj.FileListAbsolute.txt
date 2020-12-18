@@ -1,0 +1,9 @@
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\bin\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.deps.json
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\bin\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\bin\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.pdb
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.csprojAssemblyReference.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.AssemblyInfoInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.AssemblyInfo.cs
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.RabbitMQ\obj\Release\netstandard2.0\MS.AFORO255.Cross.RabbitMQ.pdb

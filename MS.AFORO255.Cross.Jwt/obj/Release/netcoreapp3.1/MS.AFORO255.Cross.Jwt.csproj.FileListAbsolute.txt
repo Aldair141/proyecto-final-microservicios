@@ -1,0 +1,9 @@
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\bin\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.deps.json
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\bin\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\bin\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.pdb
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.csprojAssemblyReference.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.AssemblyInfoInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.AssemblyInfo.cs
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.csproj.CoreCompileInputs.cache
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.dll
+D:\Trabajos\Visual Studio 2019\AFORO255.MS.TEST\MS.AFORO255.Cross.Jwt\obj\Release\netcoreapp3.1\MS.AFORO255.Cross.Jwt.pdb
